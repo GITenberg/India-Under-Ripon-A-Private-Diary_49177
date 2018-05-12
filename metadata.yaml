@@ -1,4 +1,8 @@
 _repo: India-Under-Ripon-A-Private-Diary_49177
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49177-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Blunt, Wilfrid Scawen
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7229
     wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Scawen_Blunt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49177#India-Under-Ripon-A-Private-Diary
 gutenberg_issued: '2015-06-09'
 gutenberg_type: Text
 identifiers:
